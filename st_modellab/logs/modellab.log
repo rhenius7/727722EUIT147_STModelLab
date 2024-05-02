@@ -1,0 +1,10 @@
+2024-05-02 11:18:17,672 [main] INFO  com.example.AppTest - url opened
+2024-05-02 11:18:25,694 [main] INFO  com.example.AppTest - Give now clicked
+2024-05-02 11:18:32,057 [main] INFO  com.example.AppTest - Selected Medical Education
+2024-05-02 11:18:36,461 [main] INFO  com.example.AppTest - Selected Mr.
+2024-05-02 11:19:38,371 [main] INFO  com.example.AppTest - url opened
+2024-05-02 11:19:49,158 [main] INFO  com.example.AppTest - Give now clicked
+2024-05-02 11:19:55,534 [main] INFO  com.example.AppTest - Selected Medical Education
+2024-05-02 11:19:59,938 [main] INFO  com.example.AppTest - Selected Mr.
+2024-05-02 11:20:18,787 [main] INFO  com.example.AppTest - Updated Address
+2024-05-02 11:20:19,941 [main] INFO  com.example.AppTest - Button Clicked
